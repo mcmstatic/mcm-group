@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/res/img/icon-wpml-info-white.svg">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/res/img/icon-wpml-info-white.svg";
+		</script>
+
+		<p>You are being redirected to <a href="/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/res/img/icon-wpml-info-white.svg">/wp-content/plugins/sitepress-multilingual-cms/vendor/otgs/installer/res/img/icon-wpml-info-white.svg</a></p>
+	</body>
+</html>
