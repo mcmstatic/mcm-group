@@ -67,7 +67,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel='stylesheet' id='elementor-icons-css' href='/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.21.0' media='all' />
 <link rel='stylesheet' id='swiper-css' href='/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
 <link rel='stylesheet' id='elementor-pro-css' href='/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.15.1' media='all' />
-<link rel='stylesheet' id='elementor-post-3366-css' href='/wp-content/uploads/elementor/css/post-3366.css?ver=1693810557' media='all' />
+<link rel='stylesheet' id='elementor-post-3366-css' href='/wp-content/uploads/elementor/css/post-3366.css?ver=1693922543' media='all' />
 <link rel='stylesheet' id='elementor-post-12-css' href='/wp-content/uploads/elementor/css/post-12.css?ver=1693557950' media='all' />
 <link rel='stylesheet' id='elementor-post-197-css' href='/wp-content/uploads/elementor/css/post-197.css?ver=1693557950' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.3.1' media='all' />
@@ -122,14 +122,14 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"it","expires":1,"path":
 			<link rel="stylesheet" href="/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
 				<ul id="menu-1-53963349" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1593"><a href="#" class="elementor-item elementor-item-anchor">Gruppo</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1596"><a href="/mcm/" class="elementor-sub-item">MCM | Machining Centers Manufacturing</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/mce/" class="elementor-sub-item">MCE solutions</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1594"><a href="/colgar/" class="elementor-sub-item">Colgar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3392"><a href="/mcm/" class="elementor-sub-item">MCM | Machining Centers Manufacturing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3393"><a href="/mce/" class="elementor-sub-item">MCE solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3394"><a href="/colgar/" class="elementor-sub-item">Colgar</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3351"><a href="/prodotti/" class="elementor-item">Prodotti</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3391"><a href="/prodotti/" class="elementor-item">Prodotti</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2709"><a target="_blank" rel="noopener" href="https://www.mcmspa.it/news-eventi.html" class="elementor-item">News &#038; Eventi</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1598"><a href="/contatti/" class="elementor-item">Contatti</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3395"><a href="/contatti/" class="elementor-item">Contatti</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu di commutazione" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -137,14 +137,14 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"it","expires":1,"path":
 					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
 				<ul id="menu-2-53963349" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1593"><a href="#" class="elementor-item elementor-item-anchor" tabindex="-1">Gruppo</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1596"><a href="/mcm/" class="elementor-sub-item" tabindex="-1">MCM | Machining Centers Manufacturing</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="/mce/" class="elementor-sub-item" tabindex="-1">MCE solutions</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1594"><a href="/colgar/" class="elementor-sub-item" tabindex="-1">Colgar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3392"><a href="/mcm/" class="elementor-sub-item" tabindex="-1">MCM | Machining Centers Manufacturing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3393"><a href="/mce/" class="elementor-sub-item" tabindex="-1">MCE solutions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3394"><a href="/colgar/" class="elementor-sub-item" tabindex="-1">Colgar</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3351"><a href="/prodotti/" class="elementor-item" tabindex="-1">Prodotti</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3391"><a href="/prodotti/" class="elementor-item" tabindex="-1">Prodotti</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2709"><a target="_blank" rel="noopener" href="https://www.mcmspa.it/news-eventi.html" class="elementor-item" tabindex="-1">News &#038; Eventi</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1598"><a href="/contatti/" class="elementor-item" tabindex="-1">Contatti</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3395"><a href="/contatti/" class="elementor-item" tabindex="-1">Contatti</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -212,7 +212,8 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"it","expires":1,"path":
 								<div class="elementor-element elementor-element-1b8ab8e8 elementor-widget elementor-widget-text-editor" data-id="1b8ab8e8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.15.0 - 20-08-2023 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>We&#8217;re working hard to finish the developement of this new site.<br />Follow us on our main channels!</p>						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>We&#8217;re working hard to finish the developement of this new web-site.<br>Follow us on our main channels!</p>
+<p></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -239,11 +240,6 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"it","expires":1,"path":
 						<span class="elementor-screen-only">Youtube</span>
 						<i class="fab fa-youtube"></i>					</a>
 				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-globe elementor-repeater-item-804f960" href="https://www.mcmspa.it/" target="_blank" rel="noopener">
-						<span class="elementor-screen-only">Globe</span>
-						<i class="fas fa-globe"></i>					</a>
-				</span>
 					</div>
 				</div>
 				</div>
@@ -259,6 +255,18 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"it","expires":1,"path":
 		</div>
 				</div>
 				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-37dd01b e-flex e-con-boxed e-con" data-id="37dd01b" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-3b6b7d4 elementor-widget elementor-widget-text-editor" data-id="3b6b7d4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: var( --e-global-color-text ); background-color: var( --e-global-color-6fbcf51 );">If you are so thrilled about our milling machines or systems click on the following link to our actual web-site 😀</span></p><p><a href="https://www.mcmspa.it/?lSite=en" target="_blank" rel="noopener"><span style="color: var( --e-global-color-text ); background-color: var( --e-global-color-6fbcf51 );"><u>https://www.mcmspa.it/</u></span></a></p>						</div>
+				</div>
+					</div>
+				</div>
+		<div class="elementor-element elementor-element-a600433 e-flex e-con-boxed e-con" data-id="a600433" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
+					<div class="e-con-inner">
 					</div>
 				</div>
 							</div>
@@ -409,7 +417,7 @@ var wpml_cookies = {"wp-wpml_current_language":{"value":"it","expires":1,"path":
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"1beb712b06","urls":{"assets":"\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"it_IT","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"3b4aac858f","urls":{"assets":"\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"it_IT","app_id":""},"lottie":{"defaultAnimationUrl":"\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src='/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.15.1' id='elementor-pro-frontend-js'></script>
 <script src='/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
