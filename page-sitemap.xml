@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-09-15T14:47:40+00:00</lastmod>
+		<lastmod>2023-09-15T14:54:57+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
 		</image:image>
@@ -23,7 +23,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/prodotti/</loc>
+		<loc>/prodotti/?lang=it</loc>
 		<lastmod>2023-09-15T15:01:11+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
@@ -51,7 +51,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/products/?lang=en</loc>
+		<loc>/products/</loc>
 		<lastmod>2023-09-15T15:00:48+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
@@ -79,7 +79,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/colgar/?lang=en</loc>
+		<loc>/colgar/</loc>
 		<lastmod>2023-09-15T14:59:05+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
@@ -119,7 +119,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/colgar/</loc>
+		<loc>/colgar/?lang=it</loc>
 		<lastmod>2023-09-15T14:58:16+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
@@ -159,7 +159,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/mce-solutions/?lang=en</loc>
+		<loc>/mce-solutions/</loc>
 		<lastmod>2023-09-15T14:57:41+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Progetto-senza-titolo-8-300x131.png</image:loc>
@@ -184,29 +184,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/home-page/?lang=en</loc>
-		<lastmod>2023-09-15T14:54:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/mce/</loc>
+		<loc>/mce/?lang=it</loc>
 		<lastmod>2023-09-15T14:54:49+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Progetto-senza-titolo-8-300x131.png</image:loc>
@@ -231,11 +209,33 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contatti/</loc>
+		<loc>/contatti/?lang=it</loc>
 		<lastmod>2023-09-15T14:49:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/mcm/</loc>
+		<loc>/home-page/?lang=it</loc>
+		<lastmod>2023-09-15T14:47:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mcm/?lang=it</loc>
 		<lastmod>2023-09-15T14:18:55+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Blue-Technical-Roadmap-Brainstorm.jpg</image:loc>
@@ -266,7 +266,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/mcm-machining-centers-manufacturing/?lang=en</loc>
+		<loc>/mcm-machining-centers-manufacturing/</loc>
 		<lastmod>2023-09-15T08:14:07+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/EN-3.png</image:loc>
@@ -297,7 +297,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contacts/?lang=en</loc>
+		<loc>/contacts/</loc>
 		<lastmod>2023-09-07T15:06:18+00:00</lastmod>
 	</url>
 </urlset>
